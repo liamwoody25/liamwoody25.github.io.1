@@ -173,16 +173,23 @@ li{
 
 .footer-section{
     background-color: #18314F;
-    display: flex;
+    padding-right:30px ;
+
 }
 
 .info-container{
     display: flex;
-    justify-content: space-around;
+    justify-content: space-between;
+    align-items: center;
 }
 
 .Contact{
     color: #E5E6E4;
 }
 
+
+.icons{
+    gap: 10px;
+    font-size: 10px;
+}
 
